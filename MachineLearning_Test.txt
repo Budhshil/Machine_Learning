@@ -1,0 +1,23 @@
+Machine Leaning Test: 
+
+Que1:  What is the predicted value for X = 6?
+Ans: B. 12
+
+Que2: What is the predicted class for the data point [2, 2]?
+Ans: C. It cannot be determined from the given information.
+
+
+Que3: Which cluster is the data point [3, 2] assigned to?
+Ans: A. Cluster 0 either 
+     B. Cluster 1 ( Depends on the result of KMeans)
+
+
+Que4:After training, what type of problem is this RNN model suitable for?
+Ans:  C. Time series prediction
+
+Que5: What does the value of n_components=10 represent in PCA?
+Ans: B. It retains the top 10 principal components.
+
+Que6: What does the 'total_reward' represent in this RL simulation?
+Ans: C. The cumulative reward obtained from 100 episodes.
+
